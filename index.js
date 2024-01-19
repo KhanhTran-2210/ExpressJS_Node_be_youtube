@@ -26,3 +26,5 @@ app.listen(port, () => {
 // npm i prisma @prisma/client
 // prisma -> ORM
 // prisma/client -> lib giúp mình tương tác vs DB thông qua prisma
+
+//
